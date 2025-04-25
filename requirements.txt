@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+streamlit
+torch
+transformers
+pandas
+scikit-learn
+streamlit-option-menu
